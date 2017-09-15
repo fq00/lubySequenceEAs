@@ -7,9 +7,6 @@ We conisder a dataset taken from SNAP (Stanford Network Repository Analysis), th
 
 The (1 + 1)-EA is a search heuristics inspired by the process of natural selection. Typically, it requires as input a population of strings of fixed length n. After an offspring is generated, a mutation factor is introduced, to ensure full objective space exploration. The fitness is then computed, and the less desirable result is discarded.
 
-The greedy algorithm is deterministic, and it is specifically designed to find a minimum vertex cover of an input graph. It iteratively adds nodes, which have highest degree to the cover, until all edges are covered.
-
-
 ## Files and folders
 The project is organized as follows.
 
